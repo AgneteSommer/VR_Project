@@ -4853,8 +4853,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 18.933613, y: 4.625312, z: 12.198933}
-  m_Center: {x: -2.989954, y: 1.8126559, z: -1.4358501}
+  m_Size: {x: 44.799335, y: 4.625312, z: 15.148445}
+  m_Center: {x: 9.942907, y: 1.8126559, z: 0.038906097}
 --- !u!82 &463607866
 AudioSource:
   m_ObjectHideFlags: 0
@@ -4965,7 +4965,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TunnelAmbience
   audioSource: {fileID: 463607866}
-  targetVolume: 0.35
+  targetVolume: 0.5
   fadeInTime: 2
   fadeOutTime: 2
 --- !u!4 &463607868
