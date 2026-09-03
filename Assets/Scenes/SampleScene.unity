@@ -13512,7 +13512,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4295892835532738850, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_SlopeLimit
-      value: 35
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 4750419573833148750, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_AnchorMax.y
@@ -27758,5 +27758,4 @@ SceneRoots:
   - {fileID: 1366390307}
   - {fileID: 71234032}
   - {fileID: 463607868}
-  - {fileID: 1837290019}
   - {fileID: 691119448}
